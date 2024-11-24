@@ -51,4 +51,3 @@ Greetings to my website Folks!
 
 Leveraging 3 years of industry experience, and 2 years of focused business analysis, I thrive in client communication and data analysis, delivering effective solutions. My background spans the aerial imagery and manufacturing industries, focusing on mixing technology, data, and innovation. As a proven group leader, I bridge technical requirements and business outcomes, addressing client and team needs across diverse sectors.
 
-I hold a BEng in Aeronautical Engineering from [SDIT, India](https://sdit.ac.in/).
