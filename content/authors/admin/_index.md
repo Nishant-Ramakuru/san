@@ -4,11 +4,11 @@ bio: Hi
 education:
   courses:
  
-  - course: BEng in Aeronautics
-    institution: MGIT, India
-    year: 2018
+  - course: BEng in Aeronautical Engineering
+    institution: SDIT, Mangalore, India
+    year: 2019
     
-email: "ramakurunishant@gmail.com"
+email: "vssandhya662@gmail.com"
 
 highlight_name: false
 
@@ -18,10 +18,10 @@ interests:
 - Multi-agent Modelling
   
 organizations:
-- name: MILANION
-  url: https://milaniontech.com/
+- name: ACCURATE EDGE
+  url: https://accurateedgeuae.com/
   
-role: Senior Autonomous Robotics Engineer
+role: Business Analyst
 
 social:
 - icon: envelope
@@ -49,5 +49,6 @@ title:
 ---
 Greetings to my website Folks!
 
+Leveraging 3 years of industry experience, and 2 years of focused business analysis, I thrive in client communication and data analysis, delivering effective solutions. My background spans the aerial imagery and manufacturing industries, focusing on mixing technology, data, and innovation. As a proven group leader, I bridge technical requirements and business outcomes, addressing client and team needs across diverse sectors.
 
 [University of Bristol, UK](https://www.bristol.ac.uk/)[Designing Considerate Swarms](https://direct.mit.edu/isal/proceedings/isal2021/33/86/102901) in MIT press, at the ALIFE 2021. Prior to this I worked as a Robotics Engineer at [HALCON](https://halcon.ae/) and as a Machine Learning Engineer at [ALGO8](https://algo8.ai/) after passing out from the International Institute Of Information Technology, Pune, with a BEng in Electronics. 
