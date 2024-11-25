@@ -13,9 +13,9 @@ email: "vssandhya662@gmail.com"
 highlight_name: false
 
 interests:
-- Artificial Intelligence
-- Robotics
-- Multi-agent Modelling
+- Business Stratergies
+- Data Visualization
+- Project Management 
   
 organizations:
 - name: ACCURATE EDGE
